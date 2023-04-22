@@ -13,8 +13,8 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/construction-scene/Capture.PNG">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/construction-scene/Capture.PNG">
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NVL-Lab/NVL-Lab.github.io/main/images/banner_lab.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NVL-Lab/NVL-Lab.github.io/main/images/banner_lab.png">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
