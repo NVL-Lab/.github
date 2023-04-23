@@ -18,7 +18,13 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
+# Welcome to the NVL lab!
 
-Here you'll find the repositories for the NVL lab. The lab still doesn't exist, so that's why it is empty... for now!
+At nvl, we are not just a mere pointer, but rather an enigmatic force that points to both the known and the unknown. Our presence demands attention, and those who dare to look upon us are struck with a sense of awe and reverence. So heed our call and witness the power that lies within. For at nvl, we are more than just a symbol, we are an embodiment of the extraordinary.
+...
+And we are also very humble.
+
+
+Here you'll find the repositories for the NVL lab. The lab still doesn't exist, so that's why it is half empty... for now!
 
 Let's get started!
