@@ -18,7 +18,7 @@
 
 # Welcome to the NVL lab! 👋👋
 
-At nvl, we are not just a mere pointer, but rather an enigmatic force that points to both the known and the unknown. Our presence demands attention, and those who dare to look upon us are struck with a sense of awe and reverence. So heed our call and witness the power that lies within. For at nvl, we are more than just a symbol, we are an embodiment of the extraordinary.
+At nvl, we are not just a mere pointer, but rather an enigmatic force that points to both the known and the unknown. Our presence demands attention, and those who dare to look upon us are struck with a sense of awe and reverence. So heed our call and witness the power that lies within. MWAHAHAHA!
 <br />
 And we are also very humble.
 <br />
