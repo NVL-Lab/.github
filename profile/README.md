@@ -18,7 +18,7 @@
 
 # Welcome to the NVL lab! 👋👋
 
-At nvl, we are not just a mere pointer, but rather an enigmatic force that points to both the known and the unknown. Our presence demands attention, and those who dare to look upon us are struck with a sense of awe and reverence. So heed our call and witness the power that lies within. MWAHAHAHA!
+At nvl, we are not just a mere pointer, but rather an enigmatic force that points to both the known and the unknown (*). Our presence demands attention, and those who dare to look upon us are struck with a sense of awe and reverence. So heed our call and witness the power that lies within. MWAHAHAHA!
 <br />
 And we are so very humble.
 <br />
@@ -27,5 +27,7 @@ Here you'll find the repositories for the NVL lab. The lab still doesn't exist, 
 <br />
 <br />
 Let's get started!
+
+<sub>(*) I've been told the joke may be lost in many that don't get the similarity between nvl and null. To know more about null pointers follow this [link](https://youtu.be/dQw4w9WgXcQ) </sub>
 
 ### if you are here to use our CaBMI code go [here](https://github.com/NVL-Lab/CaBMI_PrairieView)
