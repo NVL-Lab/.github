@@ -23,7 +23,7 @@ At nvl, we are not just a mere pointer, but rather an enigmatic force that point
 And we are so very humble.
 <br />
 <br />
-Here you'll find the repositories for the NVL lab. The lab still doesn't exist, so that's why it is half empty... for now!
+Here you'll find the repositories for the NVL lab. The lab will open its doors on Jan 2nd, so that's why it is half empty... for now!
 <br />
 <br />
 Let's get started!
