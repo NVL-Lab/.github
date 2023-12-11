@@ -18,9 +18,7 @@
 
 # Welcome to the NVL lab! 👋👋
 
-At nvl, we are not just a mere pointer, but rather an enigmatic force that points to both the known and the unknown (*). Our presence demands attention, and those who dare to look upon us are struck with a sense of awe and reverence. So heed our call and witness the power that lies within. MWAHAHAHA!
-<br />
-And we are so very humble.
+At nvl, we are not just a mere pointer, but rather an enigmatic force pointing to the unknown (*). 
 <br />
 <br />
 Here you'll find the repositories for the NVL lab. The lab will open its doors on Jan 2nd, so that's why it is half empty... for now!
